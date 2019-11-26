@@ -1,0 +1,11 @@
+export host="192.168.56.102:3306"
+export user="user1"
+export password="password1"
+export dbname="db1_name"
+
+export dhost="192.168.56.103:3306"
+export duser="user2"
+export dpassword="password2"
+export ddbname="db2_name"
+
+export configDir="./configurations"

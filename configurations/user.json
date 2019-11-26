@@ -1,0 +1,15 @@
+{
+    "name": "userdata",
+    "cols": {
+        "email": {
+            "value": "sanitized@abc.com"
+        },
+        "password": {
+            "value": "md5('common-password')",
+            "custom": true
+        },
+        "pastpasswords": {
+            "value": ""
+        }
+    }
+}
