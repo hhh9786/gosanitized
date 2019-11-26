@@ -1,10 +1,10 @@
 package main
 
 import (
+	s "github.com/hhh9786/gosanitized/sraplica"
 	"log"
 	"os"
 	"os/signal"
-	s "sanitize/sraplica"
 )
 
 var tables s.SensitiveTables

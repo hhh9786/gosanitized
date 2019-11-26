@@ -1,4 +1,4 @@
-module sanitize
+module github.com/hhh9786/gosanitized
 
 go 1.13
 
